@@ -1,0 +1,4 @@
+Git Repository Link: <https://github.com/suhasi-gadge/Data-Ingestion-and-Validation-Pipeline>
+
+Submission Summary:
+Implemented a prototype data ingestion and basic validation pipeline using Python and pandas. The repository contains ingestion_validation_pipeline.py, pipeline_demo.ipynb, and sample raw datasets for both valid and invalid validation scenarios. The script ingests raw CSV data, performs required-column checks, missing-value checks, numeric type validation, range validation, categorical validation, and duplicate detection. The notebook demonstrates a successful validation run that generates validated_data.csv and a simulated validation failure that logs validation issues.
